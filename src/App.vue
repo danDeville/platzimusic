@@ -1,7 +1,7 @@
 
 <template>
   <div id="app">
-    <img src="https://dandeville.github.io/platzymusic/dist/logo.png"/>
+    <img src="https://dandeville.github.io/platzimusic/dist/logo.png"/>
     <h1>PlatziMusic</h1>
 
     <select v-model="selectedCountry">
